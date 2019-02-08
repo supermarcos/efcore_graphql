@@ -1,0 +1,12 @@
+C:\Work\experiments\backend\EFCoreCodeFirstSample\LoggerService\bin\Debug\netcoreapp2.1\Contracts.dll
+C:\Work\experiments\backend\EFCoreCodeFirstSample\LoggerService\obj\Debug\netcoreapp2.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Work\experiments\backend\EFCoreCodeFirstSample\LoggerService\obj\Debug\netcoreapp2.1\LoggerService.AssemblyInfoInputs.cache
+C:\Work\experiments\backend\EFCoreCodeFirstSample\LoggerService\obj\Debug\netcoreapp2.1\LoggerService.AssemblyInfo.cs
+C:\Work\experiments\backend\EFCoreCodeFirstSample\LoggerService\bin\Debug\netcoreapp2.1\LoggerService.deps.json
+C:\Work\experiments\backend\EFCoreCodeFirstSample\LoggerService\bin\Debug\netcoreapp2.1\LoggerService.dll
+C:\Work\experiments\backend\EFCoreCodeFirstSample\LoggerService\bin\Debug\netcoreapp2.1\LoggerService.pdb
+C:\Work\experiments\backend\EFCoreCodeFirstSample\LoggerService\bin\Debug\netcoreapp2.1\Contracts.pdb
+C:\Work\experiments\backend\EFCoreCodeFirstSample\LoggerService\obj\Debug\netcoreapp2.1\LoggerService.csprojAssemblyReference.cache
+C:\Work\experiments\backend\EFCoreCodeFirstSample\LoggerService\obj\Debug\netcoreapp2.1\LoggerService.csproj.CopyComplete
+C:\Work\experiments\backend\EFCoreCodeFirstSample\LoggerService\obj\Debug\netcoreapp2.1\LoggerService.dll
+C:\Work\experiments\backend\EFCoreCodeFirstSample\LoggerService\obj\Debug\netcoreapp2.1\LoggerService.pdb
